@@ -1,0 +1,15 @@
+healthcare
+hospital-management
+fullstack-project
+nodejs
+mongodb
+expressjs
+javascript
+frontend
+backend
+dashboard
+healthcare-platform
+responsive-web-design
+jwt-authentication
+ui-ux
+medical-system
