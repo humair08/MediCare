@@ -1,3 +1,18 @@
+
+# 🏥 MediCare Hospital Platform
+
+Modern Full-Stack Healthcare Management System
+
+✨ Premium UI/UX | Smart Dashboards | AI Chatbot | Secure Backend
+
+
+
+
+
+
+
+
+
 healthcare
 hospital-management
 fullstack-project
